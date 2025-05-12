@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.8.8
+Built-By: gochev
+Build-Jdk: 17.0.9
+Class-Path: jcefmaven-122.1.10.jar jcef-api-jcef-0b8e42e+cef-122.1.10+gc
+ 902316+chromium-122.0.6261.112.jar jogl-all-v2.4.0-rc-20210111.jar glue
+ gen-rt-v2.4.0-rc-20210111.jar commons-compress-1.21.jar gson-2.10.1.jar
+Main-Class: Main
+
